@@ -3,7 +3,7 @@ import snowflake.connector
 import pandas
 import requests
 
-streamlit.title("My Parents new healthy dinner")
+streamlit.title("My Bhavika new healthy dinner")
 streamlit.header("Breakfast Favorites")
    
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
