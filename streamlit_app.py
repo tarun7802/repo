@@ -3,7 +3,7 @@ import snowflake.connector
 import pandas
 import requests
 
-streamlit.title("MANVIK Please learn Python, It very intresting, I made this app in Python programming !!"
+streamlit.title("MANVIK Please learn Python, It very intresting, I made this app in Python programming !!")
 streamlit.header("Breakfast Favorites")
    
 streamlit.text('🥣 Omega 3 & Blueberry Oatmeal')
